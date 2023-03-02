@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "goal": "Learn React",
+        "target": "By Feb",
+        "requiredItems": "Computer"
+    },
+    {
+        "id": "2",
+        "goal": "Learn NextJS 13",
+        "target": "By March",
+        "requiredItems": "Computer"
+    }
+]
